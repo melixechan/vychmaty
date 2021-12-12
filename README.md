@@ -1,8 +1,7 @@
 # vychmaty
-project po vychmatam
-
-
-test edit
-test commit
-
-test pull request
+#
+# в файле main_file собран весь код, но лучше использовать файл covidlo, так как разработка велась на jupyter и этот файл точно компилируется
+#
+#
+#
+#
